@@ -1,0 +1,19 @@
+.container {
+  color: white;
+padding-top: 20%;
+
+}
+.columnP{
+  /* border: .2px solid whitesmoke; */
+  margin:0 auto ;
+  height: 30vh;
+  text-align: center;
+}
+#heading{
+  font-family: 'Nanum Pen Script', cursive;
+}
+@media (min-width:319px) and (max-width:940px){
+ .columnP{
+  padding-top: 200px;
+  }
+}
