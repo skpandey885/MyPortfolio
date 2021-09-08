@@ -1,0 +1,29 @@
+.social{
+
+    margin:0 50px;
+    
+    margin-top: 13%;
+    color:white;
+}
+@media (min-width:940px ) and (max-width:1104px){
+    .social{
+        margin:0 50px;
+        margin-top: 20%;
+    }
+}
+@media (max-width:320px){
+    .social{
+        margin:0  11.5%;
+        margin-top: 80%;
+    
+        
+    }
+}
+@media (min-width:321px ) and (max-width:425px){
+    .social{
+        margin:0  12%;
+        margin-top: 80%;
+    
+        
+    }
+}

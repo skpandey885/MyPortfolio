@@ -9,6 +9,9 @@ function Navbar() {
   let colorchange2={
     color:'rgb(40, 93, 240)'
   }
+  
+   
+  
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-transparent fixed-top" >

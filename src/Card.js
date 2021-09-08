@@ -73,6 +73,7 @@ export default function Card() {
     }>
       <span className="wrap"></span>
     </a></h1>
+    
   </div>
   </div>
 

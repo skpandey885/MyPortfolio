@@ -32,7 +32,11 @@ nav{
 .nav-link{
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: "white";
+    color:'rgb(40, 93, 240)'
+}
+
+.nav-link:hover{
+    color: whitesmoke;
 }
 
 @media (max-width:991px){
