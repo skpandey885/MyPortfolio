@@ -26,7 +26,7 @@ function Navbar() {
                 <a className="nav-link active ps-5" aria-current="page" href="/" style={colorchange2} >Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active ps-5" aria-current="page" href="https://drive.google.com/file/d/1vSwOP6EjwoLdPJp57GBQu5NJqTYuKrPp/view?usp=sharing"  style={colorchange2}>Resume</a>
+                <a className="nav-link active ps-5" aria-current="page" href="https://drive.google.com/file/d/1M59N3j6V9u2pRGfqhMk9ftsOqED3LSCQ/view?usp=sharing"  style={colorchange2}>Resume</a>
               </li>
               <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle ps-5" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style={colorchange2}>
