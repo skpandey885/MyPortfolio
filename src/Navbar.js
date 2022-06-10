@@ -34,7 +34,6 @@ function Navbar() {
           </a>
                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li><a className="dropdown-item" href="mailto:skpandey885@gmail.com" target="_blank">Mail</a></li>
-                  <li><a className="dropdown-item" href="https://wa.me/+916205433167" target="_blank">WhatsApp</a></li>
                   <li><hr className="dropdown-divider "/></li>
                   <li><a className="dropdown-item" href="https://linktr.ee/skpandey885" target="_blank">More..</a></li>
                 </ul>
